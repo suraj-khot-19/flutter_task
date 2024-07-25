@@ -1,0 +1,9 @@
+import 'package:flutter/widgets.dart';
+
+Widget verticleSpace(double height) {
+  return SizedBox(height: height);
+}
+
+Widget horizontalSpace(double width) {
+  return SizedBox(width: width);
+}
